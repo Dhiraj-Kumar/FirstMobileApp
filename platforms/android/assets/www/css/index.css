@@ -1,0 +1,14 @@
+﻿body {
+    background-color: burlywood;
+}
+
+h1{
+    color: midnightblue;
+    text-align: center;
+}
+
+div{
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-weight: bold;
+}
